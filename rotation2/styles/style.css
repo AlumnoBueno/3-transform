@@ -1,0 +1,31 @@
+div {
+
+    width: 150px;
+    height: 150px;
+    color: rgb(0, 0, 0);
+    border: 2px solid  rgb(11, 47, 250);
+    background-color: rgb(15, 245, 214);
+    position: absolute;
+    text-align: center;
+
+}
+
+.uno {
+    top: 50px;
+    left: 200px;
+    transform: skewY(15deg);
+}
+
+.dos {
+    top: 200px;
+    left: 400px;
+    transform: scaleY(2.5);
+
+}
+
+.tres {
+    top: 50px;
+    left: 600px;
+    transform: rotate(-75deg)
+
+}
